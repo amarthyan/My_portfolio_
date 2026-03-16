@@ -73,7 +73,7 @@ loadProjects();
 
 // ─── Contact Form → Google Sheets ───
 // After deploying your Apps Script, replace the URL below with your Web App URL
-const APPS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbw35HKtflHTQsp7UvavSkQyvlRsr9UqoMsXjjpcYhq9JjDjEDpR2DxDgEtc-FqraSn-/exec';
+const APPS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbyM2ZRGS9ygNYu40q7PlR12qDeJWYcXxA9NDLBoAiYWkw9SCISnbMnQ-nKXuV6p9fZP/exec';
 
 const form = document.getElementById('contact-form');
 const toast = document.getElementById('toast');
